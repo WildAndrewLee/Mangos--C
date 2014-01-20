@@ -1,1 +1,1 @@
-A library of useful stuff for C.
+A library of useful stuff for C++.
